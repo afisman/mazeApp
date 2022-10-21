@@ -1,0 +1,23 @@
+.compass {
+    margin: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.north {
+    margin: 10px;
+}
+
+.east {
+    margin: 10px;
+}
+
+.south {
+    margin: 10px;
+}
+
+.west {
+    margin: 10px;
+}
